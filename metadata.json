@@ -1,0 +1,8 @@
+
+{
+  "name": "GeoPulse Pro - Real-time Location Tracker",
+  "description": "A high-performance location tracking dashboard that combines GPS precision with IP-based estimation and AI-powered neighborhood insights using Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
